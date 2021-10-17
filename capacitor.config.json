@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "LifeApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

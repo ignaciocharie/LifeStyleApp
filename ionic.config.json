@@ -1,0 +1,7 @@
+{
+  "name": "LifeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
